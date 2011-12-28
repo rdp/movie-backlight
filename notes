@@ -1,9 +1,34 @@
-Do people usually watch it in the complete dark?
-
 
 todo:
-  can use a window to get the movie coordinates :P
-  pure jruby: win32-screenshot, then BufferedImage
+  initial pass:
+    can use a window to get the movie coordinates :P
+    pure jruby: win32-screenshot, then BufferedImage, then hash, then display, with resizable window for display :P
+	  then just display that single image
   
   
-maybe someday do: 
+maybe someday do:
+ 
+ can infer from the "general color" of the frame, as well?
+ avoid sheering? [prolly unnecessary]
+ 
+ can specify locations of monitors "3 monitors, one right, one left, one above" and use them and it actually work.
+
+ what about darkened room, far right corner? 
+
+ can infer the movie from the black stuff above, beyond
+ 
+ can use a v shaped "sheet of aluminum" to split a top or bottom display into right and left sides.
+   or up and down, or split it into fourths, or what not.
+   
+  can specify the location of your one monitor (right, above, etc.)
+
+  the original goal was an awesome, immersive experience
+    
+	
+  can do gradients, so that say washing sea can be display, or half and half displays, or the ground too.
+  
+notes:
+
+Do people usually watch it in the complete dark?
+  What's the implication?  Just do the walls in that case?
+  

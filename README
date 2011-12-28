@@ -1,0 +1,1 @@
+for the backlighter: you can use a computer with its external monitor display--one shows the movie on the TV, the other shows the backlight.  Backlight is inferred from the "edges" (top, right, left edges) by the most prominent color after hashing colors based on their "general" color.
