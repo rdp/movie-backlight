@@ -1,13 +1,15 @@
-
 todo:
+  mirror  
+
+  
+maybe someday do:
+  disable aero automatically :P
+
   initial pass:
     can use a window to get the movie coordinates :P
     pure jruby: win32-screenshot, then BufferedImage, then hash, then display, with resizable window for display :P
 	  then just display that single image
-  
-  
-maybe someday do:
- 
+
  can infer from the "general color" of the frame, as well?
  avoid sheering? [prolly unnecessary]
  
